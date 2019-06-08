@@ -8,3 +8,5 @@ lagi
 lagi
 dan lagi ...
 cukup aja ya
+
+merge dgn master
